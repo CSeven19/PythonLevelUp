@@ -1,0 +1,12 @@
+<?xml version="1.0" ?>
+<root>
+  <students>
+    <name>
+{
+	&quot;1&quot;:[&quot;张三&quot;,&quot;150&quot;,&quot;120&quot;,&quot;100&quot;],
+	&quot;2&quot;:[&quot;李四&quot;,&quot;90&quot;,&quot;99&quot;,&quot;95&quot;],
+	&quot;3&quot;:[&quot;王五&quot;,&quot;60&quot;,&quot;66&quot;,&quot;68&quot;]
+}
+</name>
+  </students>
+</root>
